@@ -163,3 +163,15 @@ C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\View
 C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
 C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
 C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\CoreDemoKamp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\NewsLetter\SubscribeMail.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\ErrorPage\Error1.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\About\SocialMediaAbout.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
