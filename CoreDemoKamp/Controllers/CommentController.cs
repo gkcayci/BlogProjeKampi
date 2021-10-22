@@ -29,6 +29,7 @@ namespace CoreDemoKamp.Controllers
             p.BlogID = 5;
             cm.CommentAdd(p);
             return PartialView();
+           
         }
         public PartialViewResult CommentListByBlog(int id)
         {

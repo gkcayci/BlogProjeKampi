@@ -22,6 +22,7 @@ namespace CoreDemoKamp.Controllers
         public IActionResult BlogReadAll(int id)
         {
             ViewBag.i = id;
+            ViewBag.CommentId = id;
             var values = bm.GetBlogByID(id);
             return View(values);
         }

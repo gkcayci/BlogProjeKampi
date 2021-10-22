@@ -18,23 +18,37 @@ namespace CoreDemoKamp.Controllers
         [HttpGet]
         public IActionResult Index()
         {
+            ViewBag.Cities = GetCityList();
             return View();
         }
         [HttpPost]
         public IActionResult Index(Writer p, string passwordconfirm, string city)
         {
-            if (p.WriterPassword == passwordconfirm)
-            {
-                p.WriterStatus = true;
-                wm.WriterAdd(p);
-                return RedirectToAction("Index", "Blog");
+            WriterValidator vw = new WriterValidator();
+            ValidationResult vr = vw.Validate(p);
+            if (vr.IsValid) {
+
+                if (p.WriterPassword == passwordconfirm)
+                {
+                    p.WriterStatus = true;
+                    wm.WriterAdd(p);
+                    return RedirectToAction("Index", "Blog");
+                }
+                else
+                {
+                    ModelState.AddModelError("Password", "Parola eşleşmedi. Lütfen tekrar deneyin.");
+
+                }
             }
             else
             {
-                ModelState.AddModelError("Password", "Parola eşleşmedi. Lütfen tekrar deneyin.");
+                foreach(var item in vr.Errors)
+                {
+                    ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+                }
 
             }
-
+            
             return View();
         }
         public List<SelectListItem> GetCityList()

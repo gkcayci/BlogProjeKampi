@@ -24,6 +24,8 @@ namespace CoreDemoKamp.Controllers
             nm.AddNewsLetter(p);
 
             return PartialView();
+
+          
         }
     }
 }
