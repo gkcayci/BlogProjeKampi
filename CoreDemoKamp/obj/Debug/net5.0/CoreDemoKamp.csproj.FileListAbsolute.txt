@@ -185,3 +185,7 @@ C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\View
 C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Writer\WriterFooterPartial.cshtml.g.cs
 C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterMessageNotification\Default.cshtml.g.cs
 C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterNotification\Default.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Blog\BlogListByWriter.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Blog\BlogAdd.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\Blog\EditBlog.cshtml.g.cs
+C:\Users\USER\source\repos\CoreDemoKamp\CoreDemoKamp\obj\Debug\net5.0\Razor\Views\DashBoard\Index.cshtml.g.cs
