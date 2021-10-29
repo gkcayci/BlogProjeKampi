@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CoreDemoKamp.Controllers
 {
-    public class DashBoardController : Controller
+    public class DashboardController : Controller
     {
         [AllowAnonymous]
         public IActionResult Index()
